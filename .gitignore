@@ -1,0 +1,6 @@
+# Arquivos específicos
+config.py
+
+# Diretórios específicos
+__pycache__/
+venv/
